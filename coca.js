@@ -90,8 +90,8 @@ var namabarcode = '';
           }
         });
         // https://ayo.coca-cola.co.id/c/sat-coke-ayo-901
-        let alfa = 'https://ayo.coca-cola.co.id/login/sat-coke-ayo-9-60';
-        let indomaret = 'https://ayo.coca-cola.co.id/login/idm-coke-ayo-9-06';
+        let alfa = 'https://paduannya-nikmat.frestea.co.id/c/frestea-markisa-sat-911?utm_campaign=frestea&fbclid=IwY2xjawKdkCFleHRuA2FlbQIxMQABHn3iG7oy1WMehvPnNII0QybzWcK4jqB2pJSU2a_XgLHubEIAaBJmJUFZnERi_aem_5_kuTFDmc3o80u-b2hiXRg';
+        let indomaret = 'https://paduannya-nikmat.frestea.co.id/c/frestea-llg-sat-911?utm_campaign=frestea&fbclid=IwQ0xDSwKdkEtjbGNrAp2QSmV4dG4DYWVtAjExAAEe9BB8Jt0B7pB5qbu7UKrgwy7VhfDmO1E7TDzrM1ji6N_ppmQPi7ae-y_XDhc_aem_rBzVsfQTG1jo80YnAfavwg';
         const navigationPromise = page.waitForNavigation()
 
         var statusF = false;
